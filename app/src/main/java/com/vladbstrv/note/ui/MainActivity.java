@@ -1,8 +1,10 @@
-package com.vladbstrv.note;
+package com.vladbstrv.note.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.vladbstrv.note.R;
 
 public class MainActivity extends AppCompatActivity {
 
